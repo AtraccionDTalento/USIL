@@ -614,7 +614,7 @@ body {
   border-top: 1px dashed #e2e8f0;
   padding-top: 12px;
   width: 100%;
-  margin-top: auto;
+  margin-top: 0;
 }
 .partner-areas strong {
   color: #0f172a;
